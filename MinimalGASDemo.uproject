@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "",
+	"Description": "A small demo project to show basic integration of GameplayAbilitySystem plugin",
+	"Author": "Illia `v1vendi` Komsa",
+	"Modules": [
+		{
+			"Name": "MinimalGASDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		}
+	]
+}
